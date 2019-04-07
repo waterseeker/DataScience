@@ -1,0 +1,15 @@
+Proposal #1
+Dataset - https://www.kaggle.com/aaron7sun/stocknews 8 years of news headlines and stock prices
+Questions - A) What is the relationship between news headlines and stock prices.
+Hypotheses - A) Correlation between positive headlines and stock prices.
+                Stronger correlation between positive headlines mentioning a specific company or industry and those stock prices       
+
+Proposal #2
+Dataset - https://www.kaggle.com/szamil/who-suicide-statistics suicide stats 1979-2016
+combine with data on which part was in power on a federal level in the US during those time periods
+Hypothesis - Correlation between suicide rates in Blue/Red states when opposite party is in power. 
+
+Proposal #3
+Dataset - https://www.kaggle.com/jessevent/all-kaggle-datasets a dataset of datasets
+combine with news headlines
+Hypothesis - Correlation between # of datasets on a topic and the topic being in the headlines
